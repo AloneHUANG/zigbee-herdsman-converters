@@ -1,5 +1,13 @@
 # Changelog
 
+## [26.59.2](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.59.1...v26.59.2) (2026-05-30)
+
+
+### Bug Fixes
+
+* Acova Alcantara 2 and Alcantara 3: don’t expose local temperature value ([#12344](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12344)) ([afc3b4f](https://github.com/Koenkk/zigbee-herdsman-converters/commit/afc3b4fa03a17a672f111cbe6164d34861edcde5))
+* Tuya _TZE284_uqfph8ah: expose more features ([#12339](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12339)) ([02a343e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/02a343e3331ef90707481f67f0a4be549bae8d2e))
+
 ## [26.59.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.59.0...v26.59.1) (2026-05-29)
 
 
